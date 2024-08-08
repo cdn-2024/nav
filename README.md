@@ -97,8 +97,7 @@
 
 3、https://github.com/你的用户名/nav/settings/secrets/actions/new 添加申请的 token， name 填写 `TOKEN` 大写。
 
-4、打开 https://github.com/cdn
--2024/nav/actions 开启 action 自动部署
+4、打开 https://github.com/cdn-2024/nav/actions 开启 action 自动部署
 
 5、修改项目根目录配置文件 [nav.config.ts](nav.config.ts) 只需要修改仓库地址
 
